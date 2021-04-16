@@ -1,0 +1,61 @@
+body{
+  margin: 0;
+  padding: 25px;
+}
+.shapes{
+  outline: solid black 5px;
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box ; 
+  display: flex;
+  align-items: flex-end;
+  
+}
+.line{
+  background-color: blueviolet;
+  height: 150px;
+  width:50px;
+}
+.green{
+  background-color: green;
+  height:200px;
+  width:400px;
+  margin: 0px 50px;
+}
+.circle{
+  background-color: skyblue;
+  height: 200px;
+  width:200px ;
+  border-radius: 100px;
+}
+
+.boxes{
+  outline:5px dotted black;
+  width: 100%;
+  padding: 50px;
+  box-sizing: border-box ;
+  margin-top: 25px; 
+
+}
+.yellow{
+  background-color: lemonchiffon;
+  width: 100%;
+  box-shadow: 10px 10px 5px 0px #242322 ;
+  height: 200px;
+
+}
+.words{
+  outline: solid #c4c4c4 .5px;
+  box-shadow: 3px 3px #c4c4c4;
+  box-sizing: border-box;
+  margin: 25px auto;
+  padding: 100px;
+  width:50%;
+}
+.words h1 {
+  width: 100%;
+  text-align: center;
+  color: navy;
+  letter-spacing: 10px;
+}

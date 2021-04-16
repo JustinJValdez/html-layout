@@ -1,0 +1,36 @@
+/*globals*/
+body{
+  margin: 0;
+  padding: 0;
+}
+.box{
+  width: 100%;
+  height: 50%;
+}
+
+.gray{
+  width: 100%;
+  height: 100px;
+  background-color: lightgrey;
+}
+.white{
+  width: 100%;
+  height: 400px;
+  margin: 10px;;
+}
+.words{
+  align-content: center;
+  font-size: 1.5rem;
+}
+.blue{
+  background-color: steelblue;
+}
+.turquoise{
+  background-color: turquoise;
+}
+.olive{
+  background-color: olive;
+}
+.yellow{
+  background-color: yellow;
+}
